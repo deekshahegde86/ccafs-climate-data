@@ -1,0 +1,34 @@
+{
+  "name": "CCAFS-Climate Data",
+  "description": "High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "ccafs-climate-data_s3_datasett",
+  "type": "Dataset",
+  "categories": [
+    "Employment"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "buckets": [ "cgiardata" ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "meta": {
+    "Install time": [
+      "3 minutes"
+    ],
+    "Language": [
+      "S3"
+    ],
+    "categories": [
+      "Climate",
+      "Agriculture"
+    ]
+  },
+  "isDocumentSaved": true
+}
