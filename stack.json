@@ -10,8 +10,8 @@
   "stack_id": "ccafs-climate-data_s3_dataset",
   "type": "Dataset",
   "categories": [
-    "climate",
-    "aggriculture"
+    "Climate",
+    "Aggriculture"
   ],
   "has_dataset": true,
   "has_api": false,
