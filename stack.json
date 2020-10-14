@@ -7,7 +7,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "ccafs-climate-data_s3_dataset",
+  "stack_id": "ccafs-climate-data-dataset",
   "type": "Dataset",
   "categories": [
     "Climate",
