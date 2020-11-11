@@ -8,6 +8,7 @@
   "categories": [
     "Employment"
   ],
+  "commands": [],
   "platform": "Kubernetes",
   "cover": "cover.md",
   "buckets": [ "cgiardata" ],
