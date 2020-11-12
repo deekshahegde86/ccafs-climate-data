@@ -23,9 +23,10 @@
     "Install time": [
       "3 minutes"
     ],
-    "Language": [
+    "Type": [
       "S3"
     ],
+    "Tag": [ "S3" ],
     "categories": [
       "Climate",
       "Agriculture"
